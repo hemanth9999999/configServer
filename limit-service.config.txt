@@ -1,0 +1,2 @@
+limit-service.lowerlimit=1
+limit-service.upperlimit=1000
